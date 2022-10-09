@@ -1,0 +1,16 @@
+.manDiv
+{
+    background-color: rgb(252, 177, 177);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    gap: 40px;
+}
+.manDiv button
+{
+    height: 50px;
+    width: 50px;
+    font-size: 29px;
+}

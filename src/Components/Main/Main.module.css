@@ -1,0 +1,16 @@
+.mainDiv
+{
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    gap: 40px;
+}
+.mainDiv button
+{
+    height: 50px;
+    width: 50px;
+    font-size: 29px;
+}
